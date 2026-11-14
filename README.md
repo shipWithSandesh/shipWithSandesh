@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sandesh-pande-7253b0237/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sandeshpande25@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Sandesh7777777&style=for-the-badge&color=blueviolet&label=Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=shipWithSandesh&style=for-the-badge&color=blueviolet&label=Visitors"/>
 </p>
 
 ---
@@ -66,17 +66,17 @@ class Sandesh:
 
 | Project | What it does |
 |---|---|
-| [**myAwesomeProject**](https://github.com/Sandesh7777777/myAwesomeProject) | AI-enhanced test automation — tests that pull their own weight |
-| [**automation-dashboard**](https://github.com/Sandesh7777777/automation-dashboard) | Dashboard for tracking automated test runs and results |
-| [**ai-chatbot**](https://github.com/Sandesh7777777/ai-chatbot) | A JavaScript AI chatbot |
+| [**myAwesomeProject**](https://github.com/shipWithSandesh/myAwesomeProject) | AI-enhanced test automation — tests that pull their own weight |
+| [**automation-dashboard**](https://github.com/shipWithSandesh/automation-dashboard) | Dashboard for tracking automated test runs and results |
+| [**ai-chatbot**](https://github.com/shipWithSandesh/ai-chatbot) | A JavaScript AI chatbot |
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandesh7777777&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh7777777&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shipWithSandesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipWithSandesh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center"><i>✅ All tests passed. Except the ones I haven't written yet.</i></p>
